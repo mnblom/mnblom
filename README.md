@@ -1,6 +1,7 @@
 <h1 align="center"> Hi There👋, my name is Melissa </h1>
 
-#### Full-Stack Engineer
+#### Software Engineer
+#### Certified AWS Developer
 
 ##### “For the things we have to learn before we can do them, we learn by doing them.” ― Aristotle
 
