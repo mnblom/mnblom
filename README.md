@@ -1,6 +1,6 @@
-<h1 align="center"> Hi There👋, my name is Melissa </h1>
+<h1 align="center"> Hi there👋, my name is Melissa </h1>
 
-#### Software Engineer
+#### 🚀 AWS Enthusiast | AWS Associate Solution Architect | Embracing AWS DevOps & Developer Tools 🚀
 #### Certified AWS Developer
 
 ##### “For the things we have to learn before we can do them, we learn by doing them.” ― Aristotle
